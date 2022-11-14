@@ -9,7 +9,7 @@ export default function ComParametro(props){
             <p>
                     <strong>{props.aluno} </strong> 
                      Nota: <strong>{props.nota} </strong> 
-                     Esta: <strong>{status}</strong> 
+                     <p><strong>{status}</strong> </p> 
             </p>
             </>
     )
